@@ -1,0 +1,4 @@
+repository "Coletor 3D/Coletor 3D@4674274143511@cloud"
+  path "/"
+    br "/main"
+    co "/main"
